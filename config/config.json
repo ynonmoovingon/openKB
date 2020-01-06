@@ -10,7 +10,7 @@
             "field": "kb_viewcount",
             "order": -1
         },
-        "website_title": "Moovingon",
+        "website_title": "MoovingOn",
         "show_featured_articles": true,
         "show_featured_in_article": false,
         "featured_articles_count": "4",
@@ -43,7 +43,7 @@
         "env": "",
         "style": {
             "cssHeaderBackgroundColor": "",
-            "cssHeaderTextColor": "",
+            "cssHeaderTextColor": "red",
             "cssFooterBackgroundColor": "",
             "cssFooterTextColor": "",
             "cssButtonBackgroundColor": "",
